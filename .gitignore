@@ -1,0 +1,10 @@
+# Publish the website and its maintainable source. Keep local planning and QA local.
+/*
+!/.gitignore
+!/.github/
+!/README.md
+!/build.py
+!/check_static.py
+!/site/
+__pycache__/
+*.pyc
